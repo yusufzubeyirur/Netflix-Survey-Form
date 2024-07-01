@@ -1,2 +1,2 @@
 # Netflix-Survey-Form
-https://github.com/yusufzubeyirur/Netflix-Survey-Form.git
+https://yusufzubeyirur.github.io/Netflix-Survey-Form/
